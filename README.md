@@ -7,3 +7,4 @@
 ### 明实录 (Ming Shilu, or Veritable Records of Ming): It has a full digital version of the text, with subcopies divided by emperors. All copies are of .txt format.
 ### country_names_明史: It is extracted from 明史 (Ming Shi) that has a list of foreign nations that the Ming has ever recognized.
 ### with_location: It is a .csv file with the name of each foreign states that have sent tributes or emissary to Ming, with their number of contacts, and geological locations.
+### by_month_region_excel.xlsx: A spreadsheet with data of tribute missions grouped by regions and months.
