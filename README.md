@@ -2,7 +2,7 @@
 
 ## This is a public repository of my current researching project. It is part of UC Berkeley's Department of History's One-year Track Thesis.
 ### *Please open the codebook.ipynb to see the step-by-step analysis.*
-## The folders in the repository are as the following:
+## The folders and files in the repository are as the following:
 ### codebook: the coding notebook that contains all the algorithm for the project. Could be opened in Jupyterhub or Jupypter Lab.
 ### 明实录 (Ming Shilu, or Veritable Records of Ming): It has a full digital version of the text, with subcopies divided by emperors. All copies are of .txt format.
 ### country_names_明史: It is extracted from 明史 (Ming Shi) that has a list of foreign nations that the Ming has ever recognized.
